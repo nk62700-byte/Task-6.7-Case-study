@@ -4,28 +4,28 @@
 This project is the final case study for Achievement 6 of the Data Analytics Immersion Program.
 The goal is to perform an end-to-end exploratory and analytical study on boat listings data in order to understand pricing behavior, market segmentation, and temporal trends.
 Using Python for data preprocessing and analysis, and Tableau for storytelling and visualization, the project demonstrates skills in:
-# Data sourcing and cleaning
-# Exploratory data analysis(EDA)
-# Regression analysis
-# Unsupervised machine learning (k-means clustering)
-# Time series analysis
-# Dashboarding and data storytelling
+ Data sourcing and cleaning
+Exploratory data analysis(EDA)
+Regression analysis
+Unsupervised machine learning (k-means clustering)
+Time series analysis
+Dashboarding and data storytelling
 The final insights are presented in an interactive Tableau storyboard.
 # Research Questions
-# How are boat prices distributed across the market?
-# Is there a linear relationship between boat size (length) and price?
-# Can boats be meaningfully segmented into market categories using clustering?
-# How do average boat prices vary geographically by country?
-# What trends and patterns exist in related time-series data?
+ How are boat prices distributed across the market?
+Is there a linear relationship between boat size (length) and price?
+Can boats be meaningfully segmented into market categories using clustering?
+How do average boat prices vary geographically by country?
+What trends and patterns exist in related time-series data?
 # Data Sources
-# Primary Dataset
+ Primary Dataset
 Boat listings dataset containing:
-# Price
-# Boat type
-# Length and width
-# Manufacturer
-# Location (country)
-# Year and listing attributes
+ Price
+ Boat type
+ Length and width
+ Manufacturer
+ Location (country)
+ Year and listing attributes
 
 Source: Kaggle – public boat listings dataset
 Additional Data
